@@ -1,0 +1,6 @@
+{
+  "name": "Zexo",
+  "description": "Global Multi-Vendor E-Commerce marketplace with integrated supplier sync for Amazon, AliExpress, and Alibaba, dropshipping, order fulfillment, and seamless checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
